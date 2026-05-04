@@ -1,0 +1,2 @@
+"source","term_name","term_id","highlighted","adjusted_p_value","negative_log10_of_adjusted_p_value","term_size","query_size","intersection_size","effective_domain_size","intersections"
+"KEGG","Parkinson disease","KEGG:05012","false",0.0451259707663813,1.34557344228412,267,282,20,8716,"PRKACB,UBE2J1,CASP3,NDUFB3,KIF5B,PSMC6,MT-ATP6,COX7A2,MAOA,MT-CO2,TXN,MT-ND6,MT-ND1,LRRK2,MT-ND2,MT-ND4,MT-CYB,PSMA6,UQCRQ,MFN1"
