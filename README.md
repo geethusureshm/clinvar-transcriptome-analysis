@@ -39,6 +39,22 @@ The workflow includes:
 
 ---
 
+## Dataset
+- GEO: GSE90081
+- Samples: XX
+- Groups: RA vs Control
+
+## Differential Expression
+- Total genes: XX
+- Significant DEGs: XX up / XX down
+
+## ClinVar Integration
+- Immune ClinVar genes: 5436
+- Overlap with DEGs: 11 genes
+
+## Top Integrated Genes
+ADAM17, PTPRC, ICOS, PRF1, NBN
+
 ## ⚙️ Analytical Workflow
 
 ### 🔹 1. Data Preprocessing
