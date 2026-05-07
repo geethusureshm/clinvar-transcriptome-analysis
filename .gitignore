@@ -2,3 +2,7 @@
 .RData
 *.RData
 *.Rhistory
+data/clinvar/clinvar_raw.tsv
+*.tsv
+*.vcf
+*.gz
